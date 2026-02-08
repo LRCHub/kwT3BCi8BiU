@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "聲",
+  "base_artist": "NOISEMAKER",
+  "createdAt": "2026-02-08T16:24:53.837536Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "聲",
+      "artist": "天野月子",
+      "has_synced": true,
+      "path": "select/01_聲_天野月子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "聲",
+      "artist": "Tsukiko Amano",
+      "has_synced": true,
+      "path": "select/02_聲_Tsukiko_Amano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "聲",
+      "artist": "天野月",
+      "has_synced": false,
+      "path": "select/03_聲_天野月.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "聲 feat. Kj",
+      "artist": "NOISEMAKER",
+      "has_synced": false,
+      "path": "select/pl_01_聲_feat._Kj_NOISEMAKER.txt"
+    }
+  ]
+}
